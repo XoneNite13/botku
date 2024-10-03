@@ -1,6 +1,7 @@
 {
   "status": "OK",
   "log": [
-    { "ip": "170.64.162.13", "id_unik": "JOYS-GFX0J6kTUC", "nomor_owner": "6289509091998", "nomor_bot": "6289509091998", "nama_bot": "JoysBotz", "jam_run": "13.00 WIB", "date": "03/10/24" }
+    { "ip": "170.64.162.13", "id_unik": "JOYS-GFX0J6kTUC", "nomor_owner": "6289509091998", "nomor_bot": "6289509091998", "nama_bot": "JoysBotz", "jam_run": "13.00 WIB", "date": "03/10/24" },
+    {}
   ]
 }
